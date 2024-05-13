@@ -22,8 +22,7 @@ body{
     padding: 15px 25px;
 }
 .tabpsec a{
- 
-    color: #fff;
+     color: #fff;
     font-size: 18px;
 }
 .spaceleft-right{
@@ -847,4 +846,16 @@ font-weight: 700
   }
   .form-group{
     padding-left: 0;
+  }
+  /* location page */
+  .seclocatinbgg{
+    background-color: #fff;
+    padding: 30px;
+    margin: 10px;
+  }
+  .maibranchtit{
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
   }
