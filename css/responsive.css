@@ -214,6 +214,10 @@
     .sec-cont-hh2 {
         font-size: 30px;
     }
+    .secrowwov{
+        width: 100%;
+        margin: auto;
+      }
 }
 
 @media only screen and (max-width:575px){

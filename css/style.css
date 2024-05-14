@@ -859,3 +859,13 @@ font-weight: 700
     font-weight: 700;
     font-style: italic;
   }
+  .navbar-expand-md .navbar-nav .nav-link:hover{
+    color: #FE2B00;
+  }
+  .secabutsec{
+    display: flex;
+  }
+  .secrowwov{
+    width: 80%;
+    margin: auto;
+  }
