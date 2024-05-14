@@ -88,7 +88,9 @@
 }
 
 @media only screen and (max-width:767px){
-
+    .offcanvas-body {
+        background: #fff;
+    }
     .navbar-toggler{
         background-color: #FE2B00;
     }
@@ -152,10 +154,10 @@
         text-align: center;
     }
     .footer-logo{
-        text-align: center;
+        text-align: left;
     }
     .footer-list{
-        text-align: center;
+        text-align: left;
         margin-top: 30px;
     }
     .copyright-section{
@@ -185,6 +187,32 @@
     }
     .offcanvas-header{
         background: #000;
+    }
+    .mebbg p , .mebbg2 p{
+        font-size: 13px;
+        padding-top: 5px;
+    }
+    .mebbg h3 , .mebbg2 h3 {
+        font-size: 35px;
+    }
+    .secmembbtn a , .secmembbtn2 a{
+        font-size: 13px;
+    }
+    .maibranchtit {
+        font-size: 30px;    
+    }
+    .seccont-add-p {
+        font-size: 16px;
+    }
+    .sec-cont-hh {
+       color: #fff;
+        font-size: 40px;
+    }
+    .text-left {
+        margin-bottom: 40px;
+    }
+    .sec-cont-hh2 {
+        font-size: 30px;
     }
 }
 
@@ -240,7 +268,7 @@
         line-height: 30px;
     }
     .section-title h2 {
-        font-size: 40px;
+        font-size: 30px;
     }
     .section-title p {
         font-size: 16px;
