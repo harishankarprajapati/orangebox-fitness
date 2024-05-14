@@ -5,11 +5,16 @@
       width: 1899px;
       padding: 0px !important;
     }
+    .red-footer-section {
+        padding: 60px 0px 20px !important;
+        background-color: #FE2B00;
+    }
   }
   @media (min-width: 1400px) {
     .lightbox-modal .carousel-inner {
       max-width: 60%;
     }
+
   }
 
 
