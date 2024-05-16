@@ -152,7 +152,7 @@ body{
     position: relative;
 }
 .space-top-bottom{
-    padding: 60px 0px;
+    padding: 100px 0px;
 }
 .about-section-wrapper:before{
     content:"";
@@ -371,7 +371,7 @@ body{
     color: #ffffff;
 }
 .look-at-section{
-    background-image: url(..images/lookatbg.jpg) !important;
+    background-image: url(../images/trainer-sectionbackground.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #313131;
@@ -382,8 +382,11 @@ body{
 }
 .reniew-content p{
     color: #ffffff;
-    font-size: 22px;
+    font-size: 28px;
     font-weight: 100;
+}
+::placeholder{
+    color: #fff !important;
 }
 .reniew-content h6{
     color: #ffffff;
@@ -413,7 +416,7 @@ body{
     margin-bottom: 60px;
 }
 .people-say-section{
-    background-image: url("../images/fitbg.jpg");
+    background-image: url("../images/fitbg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
