@@ -24,6 +24,7 @@ body{
 .tabpsec a{
      color: #fff;
     font-size: 18px;
+    text-transform: uppercase;
 }
 .spaceleft-right{
     padding: 0px 60px;
@@ -157,8 +158,8 @@ body{
     content:"";
     background-image: url(../images/doted.png);
     width: 286px;
-    height: 458px;
-    background-position: center top;
+    height: 358px;
+    background-position: center bottom;
     display: block;
     position: absolute;
     right: 0;
@@ -353,7 +354,7 @@ body{
     margin-left: 100px;
 }
 .best-training-section{
-    background-image: url(../images/train-bg.jpg);
+    background: #181818;
 }
 .section-title.text-left h2{
     text-align: left;
@@ -413,6 +414,8 @@ body{
 }
 .people-say-section{
     background-image: url("../images/fitbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .red-footer-section{
     padding: 60px 0px 20px;
@@ -449,6 +452,10 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.footer-list22 ul{
+    margin: 0px;
+    padding: 0px;
+}
 .footer-list ul li{
     list-style: none;
 }
@@ -459,15 +466,26 @@ body{
     margin-bottom: 10px;
     display: inline-block;
 }
+.footer-list22 ul li{
+    list-style: none;
+}
+.footer-list22 ul li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
 .footer-list h5{
     color: #ffffff;
     margin-bottom: 10px;
 }
-.copyright-section{
-    text-align: center;
-    border-top: 1px solid #000000;
-    margin-top: 100px;
+.footer-list22 h5{
+    color: #ffffff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
 }
+
 .copyright-section p{
     color: #ffffff;
     font-weight: 300;
@@ -511,6 +529,7 @@ body{
 .our-miossion-section h3{
     font-size: 45px;
     color: #ffffff;
+    font-family: 'poppins';
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -852,6 +871,12 @@ font-weight: 700
     background-color: #fff;
     padding: 30px;
     margin: 10px;
+    height: 235px;
+  }
+  .secoservbg{
+    background-image: url(../images/our-servicesbackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .maibranchtit{
     color: #000;
@@ -869,3 +894,29 @@ font-weight: 700
     width: 80%;
     margin: auto;
   }
+  .secabuttext i{
+    border: 1px solid #FE2B00;
+    padding: 5px;   
+  }
+  .secmarg{
+    margin-top: 50px;
+  }
+  .about-content-wrapper p i{
+    border: 1px solid #FE2B00;
+    padding: 5px;
+  }
+  .socalmedia{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .socalmedia p a i{
+    color: #fff;
+    font-size: 25px;
+    padding-left: 25px;
+    margin-top: 30px;
+  }
+  .mobile{
+    display: none;
+  }
+
+
