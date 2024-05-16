@@ -93,6 +93,11 @@
 }
 
 @media only screen and (max-width:767px){
+    .section-title {
+        padding-top: 40px;
+    }
+    
+    
     .section-title h2 {
         margin-bottom: 20px !important;
     }
@@ -239,9 +244,7 @@
        color: #fff;
         font-size: 40px;
     }
-    .text-left {
-        margin-bottom: 40px;
-    }
+  
     .sec-cont-hh2 {
         font-size: 30px;
     }
@@ -319,7 +322,7 @@
         line-height: 30px;
     }
     .section-title h2 {
-        font-size: 30px;
+        font-size: 26px;
     }
     .section-title p {
         font-size: 16px;
