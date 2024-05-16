@@ -110,6 +110,7 @@
     }
     .navbar-toggler{
         background-color: #FE2B00;
+        height: 50px;
     }
     .banner-content h1{
         font-size: 70px;
