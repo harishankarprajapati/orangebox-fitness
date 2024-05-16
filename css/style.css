@@ -921,5 +921,15 @@ font-weight: 700
   .mobile{
     display: none;
   }
+  .secfaqtext h3{
+    color: #fff;
+    font-weight: 600;
+    font-size: 22px;
+    padding-top: 20px;
+  }
 
-
+  .secfaqtext p{
+    color: #fff;
+    font-size: 18px;
+    text-align: left;
+  }
