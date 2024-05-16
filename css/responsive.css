@@ -252,8 +252,11 @@
         display: block;
         padding-bottom: 40px;
         }
-        .spaceleft-right {
-            padding: 60px 10px 0px 10px;
+        .sectestem {
+            padding-top: 60px;
+        }
+        .sectestem {
+            padding-top: 60px;
         }
 }
 
