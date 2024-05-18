@@ -244,6 +244,9 @@
        color: #fff;
         font-size: 40px;
     }
+    .secpadiff{
+        padding: 0px 10px !important;
+    }
   
     .sec-cont-hh2 {
         font-size: 30px;

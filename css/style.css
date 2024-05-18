@@ -933,3 +933,9 @@ font-weight: 700
     font-size: 18px;
     text-align: left;
   }
+  .secfaqtext p a{
+    color: #fff;
+    font-size: 18px;
+    text-align: left;
+    text-decoration: none;
+}
