@@ -265,6 +265,9 @@
         .sectestem {
             padding-top: 60px;
         }
+        .text-left {
+            padding-bottom: 30px;
+        }
 }
 
 @media only screen and (max-width:575px){
