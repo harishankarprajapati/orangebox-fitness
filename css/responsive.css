@@ -268,6 +268,9 @@
         .text-left {
             padding-bottom: 30px;
         }
+        .footer-list22 h5 {
+            padding-top: 30px;
+        }
 }
 
 @media only screen and (max-width:575px){
